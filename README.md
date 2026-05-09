@@ -92,8 +92,8 @@ const rejwanul = {
 
 | # | Project | Description | Tech Stack | Links |
 |:-:|---------|-------------|------------|-------|
-| 🔹 | **Medi Nest** | Full-featured Medicine Ecosystem| Next.js · PostgreSQL · Prisma · JWT | [Demo](#) · [Code](#) |
-| 🔹 | **Ecospark** | Scalable REST API with cart, orders & Stripe payment | Node.js · Express · MongoDB | [Demo](#) · [Code](#) |
+| 🔹 | **Medi Nest** | Full-featured Medicine Ecosystem| Next.js · PostgreSQL · Prisma · JWT | [Demo](https://medinest-client-pearl.vercel.app/) · [Code Fontend](https://github.com/RejwanulIslam/Medi-Nest-Client) | [Code Backend]([https://github.com/RejwanulIslam/Medi-Nest-Client](https://github.com/RejwanulIslam/MediNest-Server)) | 
+| 🔹 | **Ecospark** | Scalable REST API with cart, orders & Stripe payment | Node.js · Express · MongoDB | [Demo](https://ecospark-frontend-kappa.vercel.app) · [Code Fontend](https://github.com/RejwanulIslam/ecospark-fontend)) | [Code Backenf](https://github.com/RejwanulIslam/ecospark-backend) | 
 
 
 </div>
